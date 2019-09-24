@@ -1,7 +1,7 @@
 # twig_symfony_md5
-####Twig filter for md5 hash
+#### Twig filter for md5 hash
 
-#####English
+##### English
 
 A very simple filter to get a md5 hash.
 
@@ -10,7 +10,7 @@ Example:
 ```{{ text|md5 }}```
 returns ```1cb251ec0d568de6a929b520c4aed8d1```
 
-#####Italiano
+##### Italiano
 
 Un filtro molto semplice per ricavare un hash md5.
 
